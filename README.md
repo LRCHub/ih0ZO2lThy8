@@ -1,0 +1,69 @@
+# S-Liam – Guest（feat. Captain Noah）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+鍵閉めたらもう2人
+朝までnobody
+内緒で会ってたい
+I just wanna touch your body
+Baby call me
+また呼んで
+俺の方に向かう終電
+今日君と寝たい
+I just wanna touch your body
+俺好みが映るドアスコープ
+インターホンで逆に逮捕
+ここにいる事みんなに内緒
+部屋に舞ってるジョーマロン
+(Baby all night long)
+ベッドに2人
+酒飲んで酔ったり
+好きなんて言葉出そうになるmagic
+I just want a your body
+カーテンとか鍵
+閉めたら君からとかもアリ
+口止めであげるDior
+友達に戻れないもう
+戻る気なんてない君も
+そう君も
+君は特別だよ誰よりも
+ほらその気になっちゃうBaby
+触れていたいそのbody
+I feel like a Halloween
+鍵閉めたらもう2人
+朝までnobody
+内緒で会ってたい
+I just wanna touch your body
+Baby call me
+また呼んで
+俺の方に向かう終電
+今日君と寝たい
+I just wanna touch your body
+正直言うけど君といたいんだ
+遊びじゃないけど我慢できないわ
+ヤる気がないなら居る気もないが
+君との未来を見てみたいんだ
+てか日給出してあげるからさ
+明日の仕事飛んじゃえばいいじゃん
+楽しみたいならそうするべきだ
+今夜は2度とこないだろ
+Baby come on way ya
+なにが問題？
+俺と遊べる事などそうない
+今夜100万円使っても痛くない
+みんな欲しがってる俺の存在
+君が俺の隣に来ないなら
+俺がここいる必要ないから
+今夜この街からするサヨナラ
+でもそうしない君といたいから
+鍵閉めたらもう2人
+朝までnobody
+内緒で会ってたい
+I just wanna touch your body
+Baby call me
+また呼んで
+俺の方に向かう終電
+今日君と寝たい
+I just wanna touch your body
+```
