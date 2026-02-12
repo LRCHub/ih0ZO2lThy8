@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Guest（feat. Captain Noah）",
+  "base_artist": "S-Liam",
+  "createdAt": "2026-02-12T05:56:57.319645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack)",
+      "artist": "AJ Tracey feat. MoStack",
+      "has_synced": true,
+      "path": "select/01_Dinner_Guest_(feat._MoStack)_AJ_Tracey_feat._MoStack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack)",
+      "artist": "AJ Tracey/Mostack",
+      "has_synced": true,
+      "path": "select/02_Dinner_Guest_(feat._MoStack)_AJ_Tracey_Mostack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack)",
+      "artist": "AJ Tracey, Mostack",
+      "has_synced": true,
+      "path": "select/03_Dinner_Guest_(feat._MoStack)_AJ_Tracey,_Mostack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack)",
+      "artist": "AJ Tracey",
+      "has_synced": true,
+      "path": "select/04_Dinner_Guest_(feat._MoStack)_AJ_Tracey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dinner Guest (Feat. Mostack)",
+      "artist": "Aj Tracey",
+      "has_synced": true,
+      "path": "select/05_Dinner_Guest_(Feat._Mostack)_Aj_Tracey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guest (feat. Iris) [Radio Edit]",
+      "artist": "Jean Tonique",
+      "has_synced": false,
+      "path": "select/06_Guest_(feat._Iris)_[Radio_Edit]_Jean_Tonique.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack)",
+      "artist": "MoStack",
+      "has_synced": true,
+      "path": "select/07_Dinner_Guest_(feat._MoStack)_MoStack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Pray (Be Our Guest) (Feat. Little Simz, Burna Boy, Elyanna & Tini)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/08_We_Pray_(Be_Our_Guest)_(Feat._Little_Simz,_Burna_Boy,_Elyanna_&_Tini)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Pray (Be Our Guest) (feat. Burna Boy/Elyanna/Little Simz/TINI)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/09_We_Pray_(Be_Our_Guest)_(feat._Burna_Boy_Elyanna_Little_Simz_TINI)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat. MoStack) (Paused)",
+      "artist": "AJ Tracey",
+      "has_synced": true,
+      "path": "select/10_Dinner_Guest_(feat._MoStack)_(Paused)_AJ_Tracey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dinner Guest (feat",
+      "artist": "AJ Tracey",
+      "has_synced": true,
+      "path": "select/11_Dinner_Guest_(feat_AJ_Tracey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guest (feat. Captain Noah)",
+      "artist": "S-Liam",
+      "has_synced": false,
+      "path": "select/pl_01_Guest_(feat._Captain_Noah)_S-Liam.txt"
+    }
+  ]
+}
